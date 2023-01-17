@@ -74,3 +74,41 @@ Freins
 - Ex -> Achat immobilier -> frein financier car risque trop important -> remboursement
 
 ## Le besoin
+citation
+```
+Le besoin est un sentiment de manque éprouvé à l'égard d'une satisfaction générale liée à la condition humaine
+```
+P. Kotler
+ 
+- Etat, frustration marqué par un manque -> envie de faire disparaitre
+  - Central du comportement
+  - Déclancheur processur achat
+  - Satisfaire besoin -> achat
+
+#### Types de besoin
+
+Physiologiques 
+- Exigence de survie
+- Innée
+- Nourir/vétir/soigner/sécurité (biens et personnes)
+- Nombre limité
+
+Psychologiques
+- Construite de nature
+- Vie sociale
+- Épanouissement personnel
+- Aquission à un groupe
+- Estime de soi
+- Accomplissement
+- Nombre illimité
+
+#### Satisfaction des besoins
+- Investissement personnel
+  - Temps / réflexion / argent
+- Manque est intense -> plus de frustration -> Plus grand investissement de l'individu
+
+![maslow](maslow.PNG)
+
+## Influances et stimuli
+Facteurs déclancheurs de l'action d'achat
+![stimuli](stimuli.PNG)
