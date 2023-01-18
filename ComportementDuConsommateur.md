@@ -112,3 +112,106 @@ Psychologiques
 ## Influances et stimuli
 Facteurs déclancheurs de l'action d'achat
 ![stimuli](stimuli.PNG)
+
+#### Types de stimuli
+
+Commercial
+- Provient -> entreprise qui la contrôle
+- Piblicité, Prix, Packing, Promotion, Distribution,... (Marketing Mix)
+
+Environnement
+- Non contrôlé par l'entreprise
+- Concurrence, Tabous sociaux, Lois, Climat
+
+#### Consommateur
+Types de dimensions
+
+Interseque
+- Motivation, Perceprtion, Apprentissage, Attitude, Personnalité
+
+Extrinseque
+- Culture, Classes sociales, Groupes de références, Famille
+
+## Les facteurs situationnels
+- Situation d'achat
+- Éléments matériels et humains
+- Indépendant de l'individu
+- Contexte
+- Période de l'année (vacances, fêtes, soldes)
+- Facteurs d'ambiance (éclairage, musique, décor)
+- Attitude du vendeur(compétence, amabilité, disponibilité)
+- Influance sur le comportement du consommateur
+
+## Le processus d'achat
+- Recouvre les étapes qui conduisent un consommateur à choisir un bien ou un service
+#### Les étapes du processus
+![etapes processus](etapesDuProcessus.PNG)
+
+#### 1. L'émergence du besoin
+- Débute -> existance besoin
+- Ecart -> situation présente / situation désirée
+  - Combler : **acte d'achat -> stimuli -> pousser à l'achat**
+
+- Stimuli
+  - Interne
+    - Individus (psychologie, santé, besoins primaires) -> Pyramide de Maslow
+    - Externe (entourage, famille, message publicitaire très pertinent)
+
+#### 2. La recherche d'information et de solutions possibles
+- détails techiques, possibilités, choix, options
+
+Décision de satisfaire un besoin (achat) -> Recherche d'option possibles
+
+Types de recherches
+- Interne
+  - mémoire et expériences passées
+- Externe
+  - consultation avec environnement direct (famille)
+  - environnement indirect
+    - Information sur le lieu de vente
+    - Sites internet
+    - Réseaux sociaux
+    - Le bouche à oreille
+
+Les informations externes des proches sont les plus rassurantes
+Le crédit de la source -> important
+
+#### 3. L'évaluation des solutions: comparaison des solutions d'achat
+Informations collectés phase de recherche -> developpment du jugement du consommateur
+  - Evaluation des différentes solutions par attribut
+
+Préférences personnelles
+  - Filtre pour choisir produit et service les plus adéquat aux attentes objectives / subjectives, Concientes / Inconcientes
+  - Questions d'image -> important dans l'expression des préférences
+
+Autres facteurs
+  - Peuvent avoir un impact sur la short liste finale (liste réduite)
+  - Interne / Externe
+  - Ex : mauvaise expérience avec un vendeur -> non achat su produit malgrès ses qualités
+
+#### 4. La décision d'achat
+Le consommateur détient tous les éléments pour faire son choix
+
+Il fera son choix définitif en fonction
+  - hiérarchisation de ses critères
+  - élément de dernière minute
+    - Ex : Promo "flash"
+  - Si achat important -> plus de facteurs
+    - Ex : Les risques encourus
+  - Recommendations et expériences de son entourage
+
+#### 5. L'évolution post-achat
+- Satisfaction ou mécontentement
+- Recommandations à des tiers
+- Critiques
+
+- Fait partie du processus d'achat
+  - La satisfaction est le l'élément le plus important
+    - Satisfaction -> différence entre l'attente et l'apport du produit
+    - Bonne satisfaction -> fidélité et réputation
+    - Réputation / L'image de l'entreprise
+      - Grande influance des réseaux sociaux
+      - Importante à soigner
+
+## La variablitié du processus d'achat
+
