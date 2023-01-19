@@ -1,5 +1,5 @@
 # Comportement du consommateur
-### Karel Vilém Svoboda - I.IT-E1A
+### Karel Vilém Svoboda - T.IS-E1A
 
 ## Citation
 ```
@@ -215,3 +215,25 @@ Il fera son choix définitif en fonction
 
 ## La variablitié du processus d'achat
 
+Chaque situation d'achat est uniques
+
+La durée des étapes du processus d'achat varie en fonction des critères suivants
+
+
+#### 1.Types d'achat
+Réfléchi -> Processus long
+Routinier -> Décision rapide, se fonde sur l'expérience du consommateur avec peu de recherche
+Impulsif-> Processus court. La décision émotive, favorisé par les facteurs situationnels
+
+#### 2.Les enjeux liés au produit
+Risques importants -> risques plus longs
+  - Coûts financiers
+  - Peur de l'erreur
+  - Forte émoitivitée
+
+#### 4. L'individu acheteur
+Influance des facteurs explicatifs -> varie selon les individus
+
+Ex : Achat immobilier -> risque perçu élevé.
+Le choix du bien sera différent en fonction en fonction du type de contrat 
+  - Achat résidence principale / secondaire, bail ou achat etc.
