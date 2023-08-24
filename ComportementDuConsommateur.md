@@ -231,7 +231,7 @@ Risques importants -> risques plus longs
   - Peur de l'erreur
   - Forte émoitivitée
 
-#### 4. L'individu acheteur
+#### 3. L'individu acheteur
 Influance des facteurs explicatifs -> varie selon les individus
 
 Ex : Achat immobilier -> risque perçu élevé.
